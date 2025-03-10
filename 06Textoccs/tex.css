@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+span{
+    font-family: "Arial";
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 700;
+}
+
+.h1{
+   
+    font-size: 40px;
+font-style: normal;
+    font-family: "Arial Black";
+   font-weight: 400;
+}
+
+.h2{
+    
+        font-family: "Algerian";
+        font-size: 30px;
+        font-style: italic;
+        font-weight: 500;
+    
+}
+
+.h3{
+  
+        font-family: "Arial Narrow";
+        font-size: 25px;
+        font-style: oblique;
+        font-weight: 300;
+    
+}
+
+
+.h4{
+    font-family: "Algerine";
+    font-size: 35px;
+    font-style: inherit;
+    font-weight: 100;
+}
+
+.d1{
+    text-decoration-line:underline; ;
+}
+.d2{
+    text-decoration-line: line-through; ;
+}
+
+.d3{
+    text-decoration-line: overline; ;
+}
+
+.texto{
+    text-shadow: 0 0 10px purple;
+
+}
+
+@font-face{
+    font-family: "Mani";
+    src: url("font/Minecrafter.Alt.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+.tmi{
+font-family: "Mani";
+}
+
+.ejemplo{
+    letter-spacing: 20px;
+    text-align: justify;
+}
+
+.ejemplo2{
+  line-height: 10px;
+
+}
+
+.ejemplo3{
+    line-height: 100px;
+    color:yellow;
+}
+
+.ejemplo4{
+    text-indent: 50px;
+}
+
+.ejemplo5{
+    word-spacing: 100px;
+    color: green;
+}
+
+.ejemplo6{
+    white-space:nowrap ;
+    color: rgb(95, 214, 95);
+
+}
+.ejemplo7{
+ text-align:center;
+    color: aquamarine;
+}
