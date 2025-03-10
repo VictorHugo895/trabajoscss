@@ -94,7 +94,7 @@ div{
     height: 250px;
 background-color: red;
 z-index: 1;
-opacity: 4;
+opacity: 0.5;
 }
 
 .caja2{
@@ -105,7 +105,7 @@ opacity: 4;
     height: 200px;
 background-color: aqua;
 z-index: 2;
-opacity: 3;
+opacity: 0.5;
 }
 
 .caja3{
@@ -116,7 +116,7 @@ opacity: 3;
     height: 150px;
     background-color: blue;
     z-index: 3;
-opacity: 2;
+opacity: 0.5;
 }
 
 .caja4{
@@ -127,5 +127,5 @@ opacity: 2;
     height: 100px;
     background-color: yellow;
     z-index: 4;
-    opacity:5;
+    opacity:0.5;
 }
