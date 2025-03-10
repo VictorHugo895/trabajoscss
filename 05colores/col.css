@@ -62,3 +62,34 @@ div{
     background: rgb(150, 204, 64);
     background: linear-gradient(90deg, rgba(127,218,233,1) 0%, rgba(165,232,246,1) 100%);
 }
+
+
+.gradiente4{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.gradiente5{
+    background: rgb(2,0,36);
+background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(155,65,165,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.gradiente6{
+    background: rgb(2,0,36);
+background: linear-gradient(166deg, rgba(2,0,36,1) 0%, rgba(208,213,45,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.gradiente7{
+    background: rgb(2,0,36);
+background: linear-gradient(302deg, rgba(2,0,36,1) 0%, rgba(24,232,221,0.7271721511590676) 53%, rgba(146,174,109,1) 67%, rgba(0,212,255,1) 100%);
+}
+
+.gradiente8{
+    background: rgb(2,0,36);
+background: linear-gradient(302deg, rgba(2,0,36,1) 0%, rgba(232,24,232,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.gradiente9{
+    background: rgb(2,0,36);
+background: linear-gradient(302deg, rgba(2,0,36,1) 0%, rgba(232,152,24,0.7271721511590676) 35%, rgba(0,212,255,1) 100%);
+}
