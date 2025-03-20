@@ -13,7 +13,7 @@ body{
 }
 .login{
     width: 250px;
-    height: 400px;
+    height: 350px;
     background: white;
     box-shadow: 0 0 10px  black;
     border-radius: 20px;
@@ -56,6 +56,27 @@ input{
     height: 40px;
     margin-top: 0px;   
 }
+
+
+
+
+input:hover{
+
+    color :red;
+    transition:color 0.5s ease;
+    font-weight: lighter;
+    border-radius: 10px;
+    padding: 3px;
+    border: 1px solid silver;
+    height: 40px;
+    margin-top: 0px;   
+}
+
+
+
+
+
+
 button{
     width: 50%;
     height: 40px;
