@@ -1,0 +1,607 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+}
+.fondo{
+ 
+    width: 300px;
+ height: 500px;
+ border: 2px solid black;
+ margin :auto;   
+ background: aquamarine;
+
+}
+
+
+
+
+
+h1{
+    text-shadow: 0 0 10px blue;
+}
+
+.cabeza{
+    width: 100px;
+   height: 50px;
+   background: black;
+   border-radius: 100%;
+   margin: 30px auto;
+
+}
+
+.cuerpo{
+    width: 5px;
+    height: 200px;
+    background: black;
+    border-radius: 10px;
+    margin: -33px auto;
+}
+
+.brazp1{
+    width: 5px;
+    height: 70px;
+    background: black;
+    border-radius: 10px;
+    transform: rotate(-45deg);
+    position: relative;
+    top:-150px;
+    left: 120px;
+}
+
+.brazod{
+    width: 5px;
+    height: 70px;
+    background: black;
+    border-radius: 10px;
+    transform: rotate(45deg);
+    position: relative;
+    top: -217px;
+    right: -169px;
+}
+
+
+.pierna1{
+    width: 5px;
+    height: 100px;
+    background: black;
+border-radius: 10px;
+transform: rotate(-40deg);
+position: relative;
+top: -125px;
+left: 180px; 
+}
+
+.pierna2{
+    width: 5px;
+    height: 100px;
+    background: black;
+border-radius: 10px;
+transform: rotate(40deg);
+position: relative;
+top: -225px;
+right: -114px; 
+}
+
+.mano1{
+    width: 15px;
+    height: 10px;
+    background: black;
+    border-radius: 20px;
+    margin: -10 auto;
+    position: relative;
+top: -482px;
+right: -89px; 
+}
+
+.mano2{
+    width: 15px;
+    height: 10px;
+    background: black;
+    border-radius: 20px;
+    margin: -10 auto;
+    position: relative;
+top: -488px;
+right: -187px; 
+}
+
+
+.pie1{
+    width: 20px;
+    height: 10px;
+    background: black;
+    border-radius: 20px;
+    margin: -10 auto;
+    position: relative;
+top: -259px;
+right: -68px; 
+
+}
+
+.pie2{
+     width: 20px;
+    height: 10px;
+    background: black;
+    border-radius: 20px;
+    margin: -10 auto;
+    position: relative;
+top: -269px;
+right: -210px; 
+
+}
+
+
+
+
+
+
+
+
+.Fon {
+    height: 400px;
+    width: 400px;
+    border: 5px solid;
+    border-radius: 10px;
+    background: orange;
+    justify-content: center;
+    margin: auto;
+}
+.cir {
+    width: 300px;
+    height: 300px;
+    background: rgb(170, 11, 11);
+    border-radius: 100%;
+    margin: 30px auto;
+    border: 3px solid black;
+}
+.ojo {
+    width: 40px;
+    height: 80px;
+    background: black;
+    border-radius: 100%;
+    position: relative;
+    top: -245px;
+    left: 100px;
+}
+.oj {
+    width: 40px;
+    height: 80px;
+    background: black;
+    border-radius: 100%;
+    position: relative;
+    top: -325px;
+    left: 240px;
+}
+.boc {
+    width: 150px;
+    height: 70px;
+    border: 5px solid black;
+    border-radius: 100%;
+    position: relative;
+    top: -285px;
+    left: 120px;
+    transform: rotate(180deg);
+}
+.ceja1 {
+    width: 50px;
+    height: 5px;
+    background: black;
+    position: relative;
+    top: -490px;
+    left: 90px;
+    transform: rotate(30deg); 
+}
+.ceja2 {
+    width: 50px;
+    height: 5px;
+    background: black;
+    position: relative;
+    top: -500px;
+    left: 240px;
+    transform: rotate(-30deg); 
+}
+.tap{
+    width: 170px;
+    height: 45px;
+    background:  rgb(170, 11, 11);
+    position: relative;
+    border-radius: 20px;
+    top: -340px;
+    left: 110px;
+}
+
+.fondo2{
+     height: 400px;
+    width: 400px;
+    border: 5px solid;
+    border-radius: 10px;
+    background:rgb(172, 202, 231);
+    justify-content: center;
+    margin: auto;
+}
+
+.circulo1{
+     width: 300px;
+    height: 300px;
+    background: rgb(238, 255, 5);
+    border-radius: 100%;
+    margin: 30px auto;
+    border: 3px solid black;
+    top: 200px;
+left: 300px;
+
+}
+  
+.ojo1{
+     width: 40px;
+    height: 80px;
+    background: black;
+    border-radius: 100%;
+    position: relative;
+    top: -250px;
+    left: 100px;
+
+}
+
+.ojo2{
+     width: 40px;
+    height: 80px;
+    background: black;
+    border-radius: 100%;
+    position: relative;
+    top: -325px;
+    left: 240px;
+}
+
+.boca2{
+
+    width: 150px;
+    height: 70px;
+    border: 5px solid black;
+    border-radius: 100%;
+    position: relative;
+    top: -270px;
+    left: 120px;
+    transform: rotate(180deg);
+}
+
+.ceja3{
+    width: 50px;
+    height: 5px;
+    background: black;
+    position: relative;
+    top: -170px;
+    left: 90px;
+    transform: rotate(30deg);
+}
+
+.ceja4{
+    width: 50px;
+    height: 5px;
+    background: black;
+    position: relative;
+    top: -170px;
+    left: 240px;
+    transform: rotate(-30deg);
+}
+
+.tap1{
+    width: 170px;
+    height: 45px;
+    background:   rgb(238, 255, 5);;
+    position: relative;
+    border-radius: 20px;
+    top: -360px;
+    left: 110px;
+}
+
+
+
+
+
+
+
+.fondi{
+    width: 500px;
+    height: 500px;
+    border: 5px solid ;
+    background: rgb(77, 184, 216) ;
+    justify-content: center;
+    margin: auto;   
+}
+.pasto{
+    width: 489px;
+    height: 130px;
+    background: rgb(15, 143, 56) ;
+    position: relative;
+    top: 360px;
+}
+.casa{
+    width: 150px;
+    height: 150px;
+    background: orange;
+    position: relative;
+    top: 80px;
+    left: 50px;
+}
+.techo{
+    width:200px;
+    height: 15px;
+    background: rgb(184, 101, 0);
+    position: relative;
+    top: -70px;
+    left: 30px;
+}
+.puerta{
+    height: 65px;
+    width:50px;
+    position: relative;
+    background: brown;
+    left: 70px;
+
+}
+.ventana{
+    height: 20px;
+    width:20px;
+    position: relative;
+    border: 1px solid rgb(76, 42, 10);
+    left: 150px;
+    top: -110px;
+}
+.ventana2{
+    height: 20px;
+    width:20px;
+    position: relative;
+    border: 1px solid rgb(76, 42, 10);
+    left: 170px;
+    top: -110px;
+}
+.ventana3{
+    height: 20px;
+    width:20px;
+    position: relative;
+    border: 1px solid rgb(76, 42, 10);
+    left: 150px;
+    top: -130px;
+}
+.ventana4{
+    height: 20px;
+    width:20px;
+    position: relative;
+    border: 1px solid rgb(76, 42, 10);
+    left: 170px;
+    top: -170px;
+}
+.manija{
+    height: 10px;
+    width: 10px;
+    background: rgb(8, 0, 255);
+    position: relative;
+    border-radius: 50%;
+    left: 107px;
+    top: -110px;
+}
+.sol{
+    height: 70px;
+    width: 70px;
+    background: rgb(183, 204, 25);
+    position: relative;
+    border-radius: 100%;
+    right: -400px;
+    top: -400px;
+}
+.tronco{
+    width: 20px;
+    height: 80px;
+    background: rgb(92, 69, 15);
+    position: relative;
+    left: 300px;
+    top: -240px;
+}
+.a{
+    width: 100px;
+    height: 30px;
+    background: rgb(70, 137, 11);
+    position: relative;
+    border-radius: 50%;
+    left: 260px;
+    top: -350px;  
+
+}
+.r{
+    width: 80px;
+    height: 30px;
+    background: rgb(70, 137, 11);
+    position: relative;
+    border-radius: 50%;
+    left: 270px;
+    top: -395px;     
+
+}
+.b{
+    width: 60px;
+    height: 30px;
+    background: rgb(70, 137, 11);
+    position: relative;
+    border-radius: 50%;
+    left: 280px;
+    top: -443px; 
+       
+
+}
+.o{
+    width: 30px;
+    height: 20px;
+    background: rgb(70, 137, 11);
+    position: relative;
+    border-radius: 50%;
+    left: 300px;
+    top: -490px;   
+   
+}
+
+
+.head{
+width: 15px;
+height: 15px;
+background: black;
+border-radius: 100%;
+margin: 30px auto;
+position: relative;
+left: 200px;
+top: -450px;
+}
+.body{
+width: 5px;
+height: 50px;
+background: black;
+border-radius: 10px;
+margin: -33px auto ;
+position: relative;
+left: 200px;
+top: -450px;
+
+}
+.arm1{
+width: 5px;
+height: 20px;
+background: black;
+border-radius: 10px;
+transform: rotate(-60deg);
+position: relative;
+top: -455px;
+left: 435px;
+}
+.arm2{
+width: 5px;
+height: 20px;
+background: black;
+border-radius: 10px;
+transform: rotate(60deg);
+position: relative;
+top: -475px;
+left: 450px;
+}
+.kne1{
+    width: 5px;
+    height: 20px;
+    background: black;
+    border-radius: 10px;
+    transform: rotate(35deg);
+    position: relative;
+    top: -465px;    
+    left: 435px;
+}
+.kne2{
+    width: 5px;
+    height: 20px;
+    background: black;
+    border-radius: 10px;
+    transform: rotate(-35deg);
+    position: relative;
+    top: -485px;
+    left: 450px;
+}
+.fee1{
+    width: 10px;
+    height: 5px;
+    background: black;
+    border-radius: 5px;
+    position: relative;
+    top: -298px;
+    left: 830px;
+}
+.fee2{
+    width: 10px;
+    height: 5px;
+    background: black;
+    border-radius: 5px;
+    position: relative;
+    top: -303px;
+    left: 855px;
+}
+.left{
+    width: 10px;
+    height: 5px;
+    background: black;
+    border-radius: 5px;
+    position: relative;
+    top: -261px;
+    left: 828px;
+}
+.rith{
+    width: 10px;
+    height: 5px;
+    background: black;
+    border-radius: 5px;
+    position: relative;
+    top: -267px;
+    left: 863px;
+}
+.nube{
+    width: 70px;
+    height: 70px;
+    background: white;
+    border-radius: 100%;
+    position: relative;
+    top: -450px;
+    left: 200px;
+}
+.nube2{
+    width: 70px;
+    height: 70px;
+    background: white;
+    border-radius: 100%;
+    position: relative;
+    top: -500px;
+    left: 150px;
+}
+.nube3{
+    width: 70px;
+    height: 70px;
+    background: white;
+    border-radius: 100%;
+    position: relative;
+    top: -570px;
+    left: 110px;
+}
+.nube4{
+    width: 70px;
+    height: 70px;
+    background: white;
+    border-radius: 100%;
+    position: relative;
+    top: -670px;
+    left: 155px;
+}
+.nube5{
+    width: 70px;
+    height: 70px;
+    background: white;
+    border-radius: 100%;
+    position: relative;
+    top: -810px;
+    left: 200px;
+}
+.nube6{
+    width: 70px;
+    height: 70px;
+    background: white;
+    border-radius: 100%;
+    position: relative;
+    top: -880px;
+    left: 100px;
+}
+.nube7{
+    width: 70px;
+    height: 70px;
+    background: white;
+    border-radius: 100%;
+    position: relative;
+    top: -950px;
+  left:155px;
+}
